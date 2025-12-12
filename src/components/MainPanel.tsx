@@ -152,3 +152,4 @@ export function MainPanel({ activeTab, isCapturing, setIsCapturing }: MainPanelP
     </div>
   );
 }
+

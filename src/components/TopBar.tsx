@@ -58,3 +58,4 @@ export function TopBar({ isCapturing, setIsCapturing, systemStatus }: TopBarProp
     </div>
   );
 }
+

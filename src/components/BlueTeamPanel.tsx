@@ -135,3 +135,4 @@ export function BlueTeamPanel() {
     </div>
   );
 }
+

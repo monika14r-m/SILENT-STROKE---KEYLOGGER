@@ -42,3 +42,4 @@ export function StatusBar({ isCapturing }: StatusBarProps) {
     </div>
   );
 }
+

@@ -93,3 +93,4 @@ export function DashboardView({ isCapturing }: DashboardViewProps) {
     </div>
   );
 }
+

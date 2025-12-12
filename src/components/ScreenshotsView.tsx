@@ -47,3 +47,4 @@ export function ScreenshotsView() {
     </div>
   );
 }
+

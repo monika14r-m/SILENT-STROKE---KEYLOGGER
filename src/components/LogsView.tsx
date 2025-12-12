@@ -88,3 +88,4 @@ export function LogsView({ isCapturing }: LogsViewProps) {
     </div>
   );
 }
+
